@@ -1,0 +1,8 @@
+# AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.study.core.base.controller.GlobalController,\
+com.study.core.config.DefaultFastjsonConfig,\
+com.study.core.config.MultiDataSourceConfig,\
+com.study.core.config.SingleDataSourceConfig,\
+com.study.core.config.DefaultProperties,\
+com.study.core.config.DefaultWebConfig
